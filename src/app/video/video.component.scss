@@ -1,0 +1,16 @@
+#container {
+  width: 700px;
+  height: 400px;
+  position: relative;
+}
+#video #vjs_video_3{
+  width: 700px;
+  height: 400px;
+}
+#scoreboard {
+  position: absolute;
+  bottom: 30px;
+  right: 10px;
+  z-index: 10;
+  color: white;
+}
